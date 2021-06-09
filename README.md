@@ -1,4 +1,4 @@
-About the Project:
+# About the Project:
 This project aims to develop an application to track lost and found items within 
 the IIT Bombay campus. As of now, lack of a single point of contact makes it 
 difficult to find the lost item given the huge size of the campus and unavailability 
@@ -16,7 +16,7 @@ the person can send an email initiated on claim and contact the post owner.
 
 
 
-Installation:
+# Installation:
 1. Download Android Studio from this link https://developer.android.com/studio . 
 Please follow the instructions present in the website for based on your operating
 system
@@ -28,7 +28,7 @@ system
 not made the data public for security reasons.
 
 
- Browsing the application:
+## Browsing the application:
  Here are the various screens and associated activities for browsing the application :
 1. MainActivity : Contains the login screen for the user to login via LDAP
 credential
