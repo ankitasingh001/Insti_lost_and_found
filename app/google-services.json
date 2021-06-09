@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679082226093",
+    "firebase_url": "https://insti-lost-and-found.firebaseio.com",
+    "project_id": "insti-lost-and-found",
+    "storage_bucket": "insti-lost-and-found.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679082226093:android:2292591dfaa402d83f3124",
+        "android_client_info": {
+          "package_name": "com.example.instilostandfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679082226093-p7par0ba5vm9llgniemvm0at979602f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvf_ov5EnbeAkqttavOtOlg223xK5Qo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679082226093-p7par0ba5vm9llgniemvm0at979602f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
